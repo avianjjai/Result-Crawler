@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import messagebox as tkMessageBox
-from function2 import *
+from function import *
 
 
 class result:
